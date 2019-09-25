@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24589" started-at="2019-09-23T13:00:06Z" finished-at="2019-09-23T13:00:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24589" started-at="2019-09-23T13:00:06Z" finished-at="2019-09-23T13:00:31Z">
+      <class name="homework.RedLogin_DataProvider">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:homework.RedLogin_DataProvider@66d2e7d9]" name="setUp" is-config="true" duration-ms="9503" started-at="2019-09-23T18:30:06Z" finished-at="2019-09-23T18:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:1, instance:homework.RedLogin_DataProvider@66d2e7d9]" name="Login" duration-ms="6413" started-at="2019-09-23T18:30:16Z" data-provider="logindata" finished-at="2019-09-23T18:30:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shilpa@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shilpa@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:1, instance:homework.RedLogin_DataProvider@66d2e7d9]" name="Login" duration-ms="1803" started-at="2019-09-23T18:30:22Z" data-provider="logindata" finished-at="2019-09-23T18:30:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ererrr@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4324444342]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:1, instance:homework.RedLogin_DataProvider@66d2e7d9]" name="Login" duration-ms="1537" started-at="2019-09-23T18:30:24Z" data-provider="logindata" finished-at="2019-09-23T18:30:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[deep2@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2342344242]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:1, instance:homework.RedLogin_DataProvider@66d2e7d9]" name="Login" duration-ms="1519" started-at="2019-09-23T18:30:25Z" data-provider="logindata" finished-at="2019-09-23T18:30:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dfgt@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[34324424]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:1, instance:homework.RedLogin_DataProvider@66d2e7d9]" name="Login" duration-ms="1451" started-at="2019-09-23T18:30:27Z" data-provider="logindata" finished-at="2019-09-23T18:30:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dsaddasdd@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[434242424]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:homework.RedLogin_DataProvider@66d2e7d9]" name="teardown" is-config="true" duration-ms="2331" started-at="2019-09-23T18:30:28Z" finished-at="2019-09-23T18:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- homework.RedLogin_DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

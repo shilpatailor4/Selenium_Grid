@@ -1,0 +1,7 @@
+<suite name = "Test - suite">
+  <test name = "Tool QA">
+    <classes>
+      <class name = "com.testNG.programms.TestNG"/>
+    </classes>
+   </test>
+ </suite>

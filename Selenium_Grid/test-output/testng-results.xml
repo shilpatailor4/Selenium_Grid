@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suiteB" duration-ms="4" started-at="2019-09-25T13:09:33Z" finished-at="2019-09-25T13:09:33Z">
+    <groups>
+    </groups>
+    <test name="suiteB" duration-ms="4" started-at="2019-09-25T13:09:33Z" finished-at="2019-09-25T13:09:33Z">
+      <class name="suiteB.TestB2">
+        <test-method status="PASS" signature="quit()[pri:0, instance:suiteB.TestB2@39fb3ab6]" name="quit" is-config="true" duration-ms="0" started-at="2019-09-25T18:39:33Z" finished-at="2019-09-25T18:39:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- suiteB.TestB2 -->
+    </test> <!-- suiteB -->
+  </suite> <!-- suiteB -->
+  <suite name="My suite" duration-ms="0" started-at="2019-09-25T13:09:33Z" finished-at="2019-09-25T13:09:33Z">
+    <groups>
+    </groups>
+  </suite> <!-- My suite -->
+  <suite name="suiteA" duration-ms="24" started-at="2019-09-25T13:09:33Z" finished-at="2019-09-25T13:09:33Z">
+    <groups>
+    </groups>
+    <test name="suiteA" duration-ms="24" started-at="2019-09-25T13:09:33Z" finished-at="2019-09-25T13:09:33Z">
+      <class name="suiteA.TestA1">
+        <test-method status="PASS" signature="quit()[pri:0, instance:suiteA.TestA1@34b7bfc0]" name="quit" is-config="true" duration-ms="13" started-at="2019-09-25T18:39:33Z" finished-at="2019-09-25T18:39:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- suiteA.TestA1 -->
+    </test> <!-- suiteA -->
+  </suite> <!-- suiteA -->
+</testng-results>
